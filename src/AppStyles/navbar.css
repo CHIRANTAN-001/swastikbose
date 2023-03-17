@@ -1,0 +1,22 @@
+.brand{
+    display: flex;
+    flex-direction: row;
+    column-gap: 7px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.git-btn{
+    height: 45px;
+    width: 48px;
+    background: var(--color-1);
+    border-radius: 3px;
+    color: var(--color-5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

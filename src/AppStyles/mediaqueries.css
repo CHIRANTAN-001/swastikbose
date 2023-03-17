@@ -1,0 +1,24 @@
+@media only screen and (min-width: 300px) {
+    .subquote{
+        font-size: var(--font-size-0);
+    }
+    .routes{
+        display: none;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .subquote{
+        font-size: var(--font-size-1);
+    }
+    .routes{
+        display: unset;
+    }
+    .f-size-res{
+        font-size: var(--font-size-1);
+    }
+}
+@media only screen and (min-width: 1024px) {
+    .f-size-res{
+        font-size: var(--font-size-2);
+    }
+}

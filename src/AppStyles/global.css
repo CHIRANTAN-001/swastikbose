@@ -1,0 +1,91 @@
+@import url('./fonts.css');
+
+:root{
+    /* ------------------------------ */
+    /* COLORS */
+    /* ------------------------------ */
+    --color-1: #212529;
+    --color-2: #5863F8;
+    --color-3: #66A182;
+    --color-4: #EE964B;
+    --color-5: #FFFFEA;
+    --color-6: #FF6584;
+    --color-7: #FFFFFF;
+    --color-8: #51515170;
+    --color-9: #a8a8a8;
+    /* ------------------------------ */
+    /* FONTS */
+    /* ------------------------------ */
+    --font-1: 'Nexa-Trial-Thin';
+    --font-2: 'Nexa-Trial-ExtraLight';
+    --font-3: 'Nexa-Trial-Light';
+    --font-4: 'Nexa-Trial-Book';
+    --font-5: 'Nexa-Trial-Regular';
+    --font-6: 'Nexa-Trial-Bold';
+    --font-7: 'Nexa-Trial-ExtraBold';
+    --font-8: 'Nexa-Trial-Black';
+    --font-9: 'Nexa-Trial-Heavy';
+    --font-10: 'Cera Pro Light';
+    --font-11: 'Cera Pro Medium';
+    --font-12: 'Cera Pro Bold';
+    --font-13: 'Cera Pro Black';
+    /* ------------------------------ */
+    /* FONT-SIZE */
+    /* ------------------------------ */
+    --font-size-0: 10px;
+    --font-size-1: 12px;
+    --font-size-2: 15px;
+    --font-size-3: 16px;
+    --font-size-4: 20px;
+    --font-size-5: 24px;
+    --font-size-6: 32px;
+    --font-size-7: 36px;
+    --font-size-8: 40px;
+    --font-size-9: 48px;
+    --font-size-10: 60px;
+    --font-size-11: 64px;
+    --font-size-12: 200px;
+}
+
+/* ------------------------------ */
+/* TYPOGRAPHY */
+/* ------------------------------ */
+.font-1{
+    font-family: var(--font-1);
+}
+.font-2{
+    font-family: var(--font-2);
+}
+.font-3{
+    font-family: var(--font-3);
+}
+.font-4{
+    font-family: var(--font-4);
+}
+.font-5{
+    font-family: var(--font-5);
+}
+.font-6{
+    font-family: var(--font-6);
+}
+.font-7{
+    font-family: var(--font-7);
+}
+.font-8{
+    font-family: var(--font-8);
+}
+.font-9{
+    font-family: var(--font-9);
+}
+.font-10{
+    font-family: var(--font-10);
+}
+.font-11{
+    font-family: var(--font-11);
+}
+.font-12{
+    font-family: var(--font-12);
+}
+.font-13{
+    font-family: var(--font-13);
+}

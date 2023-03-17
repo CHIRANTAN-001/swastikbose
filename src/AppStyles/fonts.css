@@ -1,0 +1,58 @@
+/* ------------------------------------------------- */
+/* Nexa Trial font */
+/* ------------------------------------------------- */
+@font-face {
+    font-family: 'Nexa-Trial-Black';
+    src: url(../../public/fonts/Nexa-Trial-Black.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-Bold';
+    src: url(../../public/fonts/Nexa-Trial-Bold.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-Book';
+    src: url(../../public/fonts/Nexa-Trial-Book.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-ExtraBold';
+    src: url(../../public/fonts/Nexa-Trial-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-ExtraLight';
+    src: url(../../public/fonts/Nexa-Trial-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-Heavy';
+    src: url(../../public/fonts/Nexa-Trial-Heavy.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-Light';
+    src: url(../../public/fonts/Nexa-Trial-Light.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-Regular';
+    src: url(../../public/fonts/Nexa-Trial-Regular.ttf);
+}
+@font-face {
+    font-family: 'Nexa-Trial-Thin';
+    src: url(../../public/fonts/Nexa-Trial-Thin.ttf);
+}
+/* ------------------------------------------------- */
+/* Cera Pro font */
+/* ------------------------------------------------- */
+@font-face {
+    font-family: 'Cera Pro Black';
+    src: url(../../public/fonts/Cera\ Pro\ Black.otf);
+}
+@font-face {
+    font-family: 'Cera Pro Bold';
+    src: url(../../public/fonts/Cera\ Pro\ Bold.otf);
+}
+@font-face {
+    font-family: 'Cera Pro Light';
+    src: url(../../public/fonts/Cera\ Pro\ Light.otf);
+}
+@font-face {
+    font-family: 'Cera Pro Medium';
+    src: url(../../public/fonts/Cera\ Pro\ Medium.otf);
+}
